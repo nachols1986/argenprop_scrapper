@@ -1,4 +1,4 @@
-# 🏠 Argenprop Scraper Pro v3
+# 🏠 Argenprop Scraper
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg) ![Status](https://img.shields.io/badge/Status-Paginación_Corregida-brightgreen.svg)
 
